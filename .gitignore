@@ -1,0 +1,9 @@
+*.pyc
+/.pytest_cache
+/report
+
+# Environments
+.env
+.venv
+env/
+venv/
